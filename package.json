@@ -4,6 +4,7 @@
   "description": "process news from R7 portal news RSS Feed.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/vinisantt/expressoesRegularesLFTC/issues"
   },
-  "homepage": "https://github.com/vinisantt/expressoesRegularesLFTC#readme"
+  "homepage": "https://github.com/vinisantt/expressoesRegularesLFTC#readme",
+  "type": "module"
 }
