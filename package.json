@@ -1,0 +1,24 @@
+{
+  "name": "expressoesregulareslftc",
+  "version": "0.1.0",
+  "description": "process news from R7 portal news RSS Feed.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinisantt/expressoesRegularesLFTC.git"
+  },
+  "keywords": [
+    "RSS",
+    "Regex",
+    "Node"
+  ],
+  "author": "Vinicius Dias & Jonhtan Mota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinisantt/expressoesRegularesLFTC/issues"
+  },
+  "homepage": "https://github.com/vinisantt/expressoesRegularesLFTC#readme"
+}
