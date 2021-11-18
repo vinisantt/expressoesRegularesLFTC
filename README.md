@@ -1,7 +1,4 @@
----
-title: ⚒️ Extração de dados com expressões regulares
----
-
+⚒️ Extração de dados com expressões regulares
 # Extração de dados com expressões regulares
 
 ## Contribuidores
@@ -141,3 +138,8 @@ A saída destes dados podem ser vistos abaixo:
 
 ---
 
+## Como executar?
+
+Após clonar o repositório, dê o seguinte comando:
+
+`npm run start`
