@@ -1,12 +1,5 @@
 # ⚒️ Extração de dados com expressões regulares
 
-## Contribuidores
-
-| [<img src="https://avatars0.githubusercontent.com/u/24749522?s=400&u=b51b1b15d99cf90269cea31d92823e3ff192a41d&v=4" width=115><br><sub>@vinisantt</sub>](https://github.com/vinisantt) | [<img src="https://avatars.githubusercontent.com/u/47464761?v=4" width=115><br><sub>@jomrs</sub>](https://github.com/jomrs) |
-| :---: | :---: |
-
----
-
 ## Do que se trata o código deste repositório?
 
 O código aqui implementado visa obter os dados do feed disponibilizado pelo RSS (Rich Site Summary) do site R7.com, que é uma forma simplificada de se apresentar as notícias do site. 
@@ -142,3 +135,11 @@ A saída destes dados podem ser vistos abaixo:
 Após clonar o repositório, dê o seguinte comando:
 
 `npm run start`
+
+---
+## Contribuidores
+
+| [<img src="https://avatars0.githubusercontent.com/u/24749522?s=400&u=b51b1b15d99cf90269cea31d92823e3ff192a41d&v=4" width=115><br><sub>@vinisantt</sub>](https://github.com/vinisantt) | [<img src="https://avatars.githubusercontent.com/u/47464761?v=4" width=115><br><sub>@jomrs</sub>](https://github.com/jomrs) |
+| :---: | :---: |
+
+---
