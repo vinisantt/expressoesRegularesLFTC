@@ -1,5 +1,4 @@
-⚒️ Extração de dados com expressões regulares
-# Extração de dados com expressões regulares
+# ⚒️ Extração de dados com expressões regulares
 
 ## Contribuidores
 
