@@ -69,10 +69,10 @@ Finalidades essas descritas abaixo:
 
 - `FORMAT_POST_DATE` - auxiliar na formatação da data das postagens.
 
-    1. `(?<year>[0-9]{4})` - atribui a tag "<year>" os 4 primeiros dígitos;
+    1. `(?<year>[0-9]{4})` - atribui a tag `<year>` os 4 primeiros dígitos;
     2. `-` - delimitador entre cada tag;
-    3. `(?<month>[0-9]{2})` - atribui a tag "<month>" os dois primeiros dígitos, após os 4 primeiros o passo 1.
-    4. `(?<day>[0-9]{2})` - atribui a tag "<day>" os dois primeiros dígitos, após os dois dígitos do passo 3.
+    3. `(?<month>[0-9]{2})` - atribui a tag `<month>` os dois primeiros dígitos, após os 4 primeiros o passo 1.
+    4. `(?<day>[0-9]{2})` - atribui a tag `<day>` os dois primeiros dígitos, após os dois dígitos do passo 3.
 
 Com base nas expressões exibidas acima, foi criada uma função responsável por verificar cada conteúdo e gerar uma lista para cada um, como pode-se ver abaixo:
 
